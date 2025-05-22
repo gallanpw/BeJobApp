@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-## URL Deploy
+## URL Demo Backend
 https://bejobapp.fly.dev/
 
 ## Doumentasi API (Postman)
